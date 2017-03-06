@@ -1,0 +1,22 @@
+{
+  "name": "node-express-middleware-study",
+  "version": "1.0.0",
+  "description": "学习node中express框架中间件的相关知识及实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadWaka/node-express-middleware-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadWaka/node-express-middleware-study/issues"
+  },
+  "homepage": "https://github.com/BadWaka/node-express-middleware-study#readme",
+  "dependencies": {
+    "express": "^4.15.1"
+  }
+}
